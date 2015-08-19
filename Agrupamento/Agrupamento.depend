@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1438808405 source:c:\users\gisele\documents\agrupamento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"cabecalho.h"
+
+1438805296 c:\users\gisele\documents\agrupamento\cabecalho.h
+
+1438807465 source:c:\users\gisele\documents\agrupamento\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	"cabecalho.h"
+
+1439415171 source:c:\users\gisele\desktop\monografia comleta\agrupamento - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"cabecalho.h"
+
+1439412435 c:\users\gisele\desktop\monografia comleta\agrupamento - copia\cabecalho.h
+
+1439415716 source:c:\users\gisele\desktop\monografia comleta\agrupamento - copia\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	"cabecalho.h"
+
+1439507758 source:c:\users\gisele\desktop\monografia comleta\agrupamento - copia - copia\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	"cabecalho.h"
+
+1439492499 c:\users\gisele\desktop\monografia comleta\agrupamento - copia - copia\cabecalho.h
+
+1439505265 source:c:\users\gisele\desktop\monografia comleta\agrupamento - copia - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"cabecalho.h"
+
+1439848971 source:c:\users\gisele\desktop\monografia comleta\agrupamento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"cabecalho.h"
+
+1439781879 c:\users\gisele\desktop\monografia comleta\agrupamento\cabecalho.h
+
+1439850440 source:c:\users\gisele\desktop\monografia comleta\agrupamento\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	"cabecalho.h"
+

@@ -1,0 +1,1 @@
+Para rodar o algoritmo, deve-se incluir na pasta do projeto (Agrupamento), a base de dados com o nome de "ENTRADA".
